@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Daniel",
+    "edad": 22,
+    "salario": 400.0,
+    "AnioIngreso": 2022,
+    "TiempoTrabajando": 4,
+    "email": "dmurcia@gmail.com",
+    "rol": "contador",
+    "horas_por_dia": 8.0,
+    "vacaciones_anuales": 15,
+    "bonos": 25.0,
+    "recibe_comision": false,
+    "porcentaje_comision": 0.0
+  },
+  {
+    "id": 1,
+    "nombre": "Daniel",
+    "edad": 22,
+    "salario": 400.0,
+    "AnioIngreso": 2022,
+    "TiempoTrabajando": 4,
+    "email": "dmurcia@gmail.com",
+    "rol": "contador",
+    "horas_por_dia": 8.0,
+    "vacaciones_anuales": 15,
+    "bonos": 25.0,
+    "recibe_comision": false,
+    "porcentaje_comision": 0.0
+  },
+  {
+    "id": 2,
+    "nombre": "alejandro",
+    "edad": 23,
+    "salario": 900.0,
+    "AnioIngreso": 2022,
+    "TiempoTrabajando": 4,
+    "email": "agaray@gmail.com",
+    "rol": "programador",
+    "horas_por_dia": 7.0,
+    "vacaciones_anuales": 15,
+    "bonos": 3.0,
+    "recibe_comision": true,
+    "porcentaje_comision": 10.0
+  }
+]
